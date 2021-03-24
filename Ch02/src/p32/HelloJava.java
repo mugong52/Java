@@ -6,7 +6,7 @@ public class HelloJava {
 		// System.out.println("Hello Java");
 		
 		/*
-		 * Hello Java를 출력하는 실행무능ㄹ 주석처리 하고
+		 * Hello Java를 출력하는 실행문을 주석처리 하고
 		 * 아래 안녕 자바라고 출력되는 실행문을 추가
 		*/
 		
